@@ -1,4 +1,4 @@
-![Margarita Perez](https://github.com/Kunal645/Kunal645/assets/89443555/415c32ec-bf08-43b9-8ea5-5f7befe9e6cf)
+![Margarita Perez (1)](https://github.com/Kunal645/Kunal645/assets/89443555/90f2501e-db85-4ef3-9e87-959857cad50c)
 
 # :dizzy: About Me:
 :zap:I'm Kunal Vaghela. I'm an experienced Flutter Developer.<br> :telescope:I’m currently working on cross platform applications<br>:dancers:I have hands-on experience working in product or service based company.<br>:seedling: With a good problem solving mind
