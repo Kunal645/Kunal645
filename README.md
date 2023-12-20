@@ -1,7 +1,7 @@
 ![Margarita Perez (1)](https://github.com/Kunal645/Kunal645/assets/89443555/90f2501e-db85-4ef3-9e87-959857cad50c)
 
 # 💫 About Me:
-⚡I'm Kunal Vaghela. I'm an experienced Flutter Developer.<br>🔭I’m currently working on cross platform applications<br>👯I have hands-on experience working in product or service based company.<br>🌱 With a good problem solving mind
+⚡I'm Kunal Vaghela. I'm an experienced Flutter Developer.<br>🔭I’m working on cross platform applications<br>👯I have hands-on experience working in product or service based company.<br>🌱 With a good problem solving mind
 
 
 ## 🌐 Socials:
