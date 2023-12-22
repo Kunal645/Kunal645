@@ -1,7 +1,7 @@
 ![Margarita Perez (1)](https://github.com/Kunal645/Kunal645/assets/89443555/90f2501e-db85-4ef3-9e87-959857cad50c)
 
 # 💫 About Me:
-⚡I'm Kunal Vaghela. I'm an experienced Flutter Developer.<br>🔭I’m working on cross platform applications<br>👯I have hands-on experience working in product or service based company.<br>🌱 With a good problem solving mind
+⚡I'm Kunal Vaghela. I'm an experienced Flutter Developer.<br>🔭I’m working on cross platform applications<br>👯I have hands-on experience working in product and service based company.<br>🌱 With a good problem solving mind
 
 
 ## 🌐 Socials:
@@ -9,8 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?fs=1&su=Subject%20&to=kunalvagh45%40gmail.com&view=cm)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kunalvaghela1)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kunalvagh645) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23130632)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunal_vagh_645)
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
@@ -22,7 +20,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)   
